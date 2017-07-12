@@ -1,0 +1,683 @@
+[1315389] Using port 4461
+Server waiting for client
+Connected player with UUID AmberPythonAI
+Assigned index 0 (Amber)
+Server waiting for client
+Connected player with UUID BluePythonAI
+Assigned index 1 (Blue)
+[0] AmberPythonAI (Comm open) - sending GET_READY...
+[0] AmberPythonAI (Comm open) - Ready!
+[1] BluePythonAI (Comm open) - sending GET_READY...
+[1] BluePythonAI (Comm open) - Ready!
+[1318619] Asking 0 for move
+[1318619] Asking 1 for move
+[1318684] Got 1's move
+[1318722] Got 0's move
+[1318723] ===== Move Frame 0 ===========
+[1318725] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X  a   X   d  X
+XXXX bXXXc XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX gXXX  XXXX
+X  h   X      X
+X      X f   eX
+XXXXXXXXXXXXXXX
+[1319313] Asking 0 for move
+[1319314] Asking 1 for move
+[1319333] Got 0's move
+[1319343] Got 1's move
+[1319345] ===== Move Frame 1 ===========
+[1319345] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXXa XXX dXXXX
+X  + b    c+  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXXh XXX  XXXX
+X     gX f    X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1319852] Asking 0 for move
+[1319852] Asking 1 for move
+[1319878] Got 0's move
+[1319917] Got 1's move
+[1319924] ===== Move Frame 2 ===========
+[1319924] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +a      d  X
+X     b+   c  X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +h      +  X
+XXXX gXXX  XXXX
+X      X   e  X
+X      X  f   X
+XXXXXXXXXXXXXXX
+[1320444] Asking 0 for move
+[1320444] Asking 1 for move
+[1320468] Got 0's move
+[1320485] Got 1's move
+[1320486] ===== Move Frame 3 ===========
+[1320487] ==============================
+AmberPythonAI gained 50 points for obtaining a pick up
+AmberPythonAI gained 200 points for capturing a control point
+[1320521] Control Point Barbara captured by AMBER
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +       d  X
+X   a  +      X
+X     b     c X
+XN           AX
+X             X
+X   h  +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X     gX  f   X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1321033] Asking 0 for move
+[1321033] Asking 1 for move
+[1321050] Got 0's move
+[1321056] Got 1's move
+[1321056] ===== Move Frame 4 ===========
+[1321056] ==============================
+BluePythonAI gained 40 points for shooting an enemy unit
+[1321091] BLUE.DELTA hits AMBER.ALPHA for 4 * 1 = 4 damage
+AmberPythonAI gained 40 points for shooting an enemy unit
+[1321457] AMBER.ALPHA hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X   a  +    d X
+X             X
+XN    b      cX
+X             X
+X   h  +      X
+X  +       +  X
+XXXX gXXX  XXXX
+X      X   e  X
+X      X   f  X
+XXXXXXXXXXXXXXX
+[1321971] Asking 0 for move
+[1321971] Asking 1 for move
+[1321981] Got 0's move
+[1321986] Got 1's move
+[1321986] ===== Move Frame 5 ===========
+[1321986] ==============================
+BluePythonAI gained 40 points for shooting an enemy unit
+[1321986] BLUE.DELTA hits AMBER.ALPHA for 4 * 1 = 4 damage
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1321987] AMBER.ALPHA hits BLUE.DELTA for 4 * 2 = 8 damage
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1321989] AMBER.BRAVO hits BLUE.DELTA for 4 * 2 = 8 damage
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X   a  +      X
+X            dX
+XN    b      AX
+X            cX
+X   h  +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1322498] Asking 1 for move
+[1322497] Asking 0 for move
+[1322518] Got 1's move
+[1322519] Got 0's move
+[1322519] ===== Move Frame 6 ===========
+[1322520] ==============================
+BluePythonAI gained 40 points for shooting an enemy unit
+[1322520] BLUE.DELTA hits AMBER.ALPHA for 4 * 1 = 4 damage
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1322520] AMBER.ALPHA hits BLUE.DELTA for 4 * 2 = 8 damage
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1322521] AMBER.BRAVO hits BLUE.DELTA for 4 * 2 = 8 damage
+AmberPythonAI gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X   a  +      X
+X             X
+XN    b      dX
+X             X
+X   h  +    c X
+X  +       +  X
+XXXX gXXX  XXXX
+X      X   e  X
+X      X    f X
+XXXXXXXXXXXXXXX
+[1323027] Asking 0 for move
+[1323027] Asking 1 for move
+[1323035] Got 1's move
+[1323036] Got 0's move
+[1323036] ===== Move Frame 7 ===========
+[1323040] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X    a        X
+XN           AX
+X      b     dX
+X   h  +      X
+X  +       + cX
+XXXX  XXX  XXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1323550] Asking 0 for move
+[1323552] Asking 1 for move
+[1323566] Got 1's move
+[1323566] Got 0's move
+[1323567] ===== Move Frame 8 ===========
+[1323567] ==============================
+BluePythonAI gained 40 points for shooting an enemy unit
+[1323568] BLUE.BRAVO hits AMBER.BRAVO for 4 * 1 = 4 damage
+AmberPythonAI gained 40 points for shooting an enemy unit
+[1323568] AMBER.BRAVO hits BLUE.BRAVO for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN    a      AX
+X      b      X
+X   h  +    d X
+X  +       +c X
+XXXX gXXX  XXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1324073] Asking 0 for move
+[1324074] Asking 1 for move
+[1324103] Got 1's move
+[1324103] Got 0's move
+[1324104] ===== Move Frame 9 ===========
+[1324105] ==============================
+BluePythonAI gained 40 points for shooting an enemy unit
+[1324105] BLUE.BRAVO hits AMBER.BRAVO for 4 * 1 = 4 damage
+AmberPythonAI gained 40 points for shooting an enemy unit
+[1324106] AMBER.BRAVO hits BLUE.BRAVO for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN    a      AX
+X      b      X
+X   h  +      X
+X  +       c dX
+XXXX  XXX  XXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1324632] Asking 0 for move
+[1324632] Asking 1 for move
+[1324644] Got 1's move
+[1324645] Got 0's move
+[1324646] ===== Move Frame 10 ===========
+[1324646] ==============================
+AmberPythonAI gained 50 points for obtaining a pick up
+BluePythonAI gained 40 points for shooting an enemy unit
+[1324646] BLUE.BRAVO hits AMBER.BRAVO for 4 * 1 = 4 damage
+AmberPythonAI gained 40 points for shooting an enemy unit
+[1324647] AMBER.BRAVO hits BLUE.BRAVO for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN    a      AX
+X      b      X
+X   h  +      X
+X  +       cd X
+XXXX gXXX  XXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1325157] Asking 0 for move
+[1325157] Asking 1 for move
+[1325172] Got 1's move
+[1325183] Got 0's move
+[1325185] ===== Move Frame 11 ===========
+[1325185] ==============================
+BluePythonAI gained 40 points for shooting an enemy unit
+[1325187] BLUE.BRAVO hits AMBER.BRAVO for 4 * 1 = 4 damage
+AmberPythonAI gained 40 points for shooting an enemy unit
+[1325188] AMBER.BRAVO hits BLUE.BRAVO for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN    a      AX
+X      b      X
+X   h  +      X
+X  +       d  X
+XXXX  XXX cXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1325715] Asking 0 for move
+[1325715] Asking 1 for move
+[1325738] Got 0's move
+[1325738] Got 1's move
+[1325739] ===== Move Frame 12 ===========
+[1325739] ==============================
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1325739] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 2 = 8 damage
+BluePythonAI gained 80 points for shooting an enemy unit
+[1325739] BLUE.ALPHA hits AMBER.CHARLIE for 4 * 2 = 8 damage
+BluePythonAI gained 80 points for shooting an enemy unit
+[1325741] BLUE.BRAVO hits AMBER.CHARLIE for 4 * 2 = 8 damage
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1325742] AMBER.BRAVO hits BLUE.BRAVO for 4 * 2 = 8 damage
+AmberPythonAI gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN    a      AX
+X      b      X
+X   h  +   d  X
+X  +          X
+XXXX gXXX cXXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1326245] Asking 0 for move
+[1326246] Asking 1 for move
+[1326264] Got 0's move
+[1326266] Got 1's move
+[1326269] ===== Move Frame 13 ===========
+[1326269] ==============================
+AmberPythonAI gained 40 points for shooting an enemy unit
+[1326269] AMBER.CHARLIE hits BLUE.ALPHA for 4 * 1 = 4 damage
+BluePythonAI gained 40 points for shooting an enemy unit
+[1326269] BLUE.ALPHA hits AMBER.CHARLIE for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X      a      X
+X   h  +b     X
+X  +        d X
+XXXX  XXX cXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1326773] Asking 1 for move
+[1326773] Asking 0 for move
+[1326795] Got 0's move
+[1326795] Got 1's move
+[1326797] ===== Move Frame 14 ===========
+[1326797] ==============================
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1326797] AMBER.CHARLIE hits BLUE.ALPHA for 4 * 2 = 8 damage
+BluePythonAI gained 40 points for shooting an enemy unit
+[1326798] BLUE.ALPHA hits AMBER.CHARLIE for 4 * 1 = 4 damage
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1326798] AMBER.BRAVO hits BLUE.ALPHA for 4 * 2 = 8 damage
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X      a      X
+X   h  +b     X
+X  +       d  X
+XXXX gXXX cXXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1327307] Asking 0 for move
+[1327307] Asking 1 for move
+[1327325] Got 1's move
+[1327337] Got 0's move
+[1327337] ===== Move Frame 15 ===========
+[1327338] ==============================
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1327339] AMBER.CHARLIE hits BLUE.ALPHA for 4 * 2 = 8 damage
+BluePythonAI gained 40 points for shooting an enemy unit
+[1327340] BLUE.ALPHA hits AMBER.CHARLIE for 4 * 1 = 4 damage
+AmberPythonAI gained 80 points for shooting an enemy unit
+[1327340] AMBER.BRAVO hits BLUE.ALPHA for 4 * 2 = 8 damage
+AmberPythonAI gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X      a      X
+X   h  +b  d  X
+X  +          X
+XXXX  XXX cXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1327856] Asking 1 for move
+[1327856] Asking 0 for move
+[1327865] Got 0's move
+[1327866] Got 1's move
+[1327868] ===== Move Frame 16 ===========
+[1327868] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +a     X
+X  +     b  d X
+XXXX gXXX  XXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1328376] Asking 0 for move
+[1328386] Asking 1 for move
+[1328393] Got 0's move
+[1328432] Got 1's move
+[1328434] ===== Move Frame 17 ===========
+[1328435] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +     a d  X
+XXXX  XXX bXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1328940] Asking 1 for move
+[1328940] Asking 0 for move
+[1328943] Got 0's move
+[1328944] Got 1's move
+[1328945] ===== Move Frame 18 ===========
+[1328945] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +   d  X
+X  +          X
+XXXX gXXX aXXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1329449] Asking 0 for move
+[1329450] Asking 1 for move
+[1329469] Got 0's move
+[1329473] Got 1's move
+[1329474] ===== Move Frame 19 ===========
+[1329475] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +        d X
+XXXX  XXX aXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1329981] Asking 0 for move
+[1329981] Asking 1 for move
+[1329986] Got 0's move
+[1329986] Got 1's move
+[1329986] ===== Move Frame 20 ===========
+[1329986] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX gXXX aXXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1330493] Asking 0 for move
+[1330499] Asking 1 for move
+[1330505] Got 0's move
+[1330518] Got 1's move
+[1330524] ===== Move Frame 21 ===========
+[1330525] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX  XXX aXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1331031] Asking 0 for move
+[1331032] Asking 1 for move
+[1331050] Got 0's move
+[1331052] Got 1's move
+[1331053] ===== Move Frame 22 ===========
+[1331053] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX gXXX aXXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1331560] Asking 0 for move
+[1331560] Asking 1 for move
+[1331569] Got 1's move
+[1331569] Got 0's move
+[1331571] ===== Move Frame 23 ===========
+[1331572] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX  XXX aXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1332078] Asking 0 for move
+[1332088] Asking 1 for move
+[1332097] Got 0's move
+[1332100] Got 1's move
+[1332102] ===== Move Frame 24 ===========
+[1332102] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX gXXX aXXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1332609] Asking 0 for move
+[1332609] Asking 1 for move
+[1332623] Got 1's move
+[1332631] Got 0's move
+[1332631] ===== Move Frame 25 ===========
+[1332631] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX  XXX aXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1333134] Asking 1 for move
+[1333134] Asking 0 for move
+[1333142] Got 0's move
+[1333144] Got 1's move
+[1333147] ===== Move Frame 26 ===========
+[1333147] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX gXXX aXXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1333657] Asking 1 for move
+[1333657] Asking 0 for move
+[1333664] Got 1's move
+[1333666] Got 0's move
+[1333669] ===== Move Frame 27 ===========
+[1333670] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX  XXX aXXXX
+X     gX   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
+[1334175] Asking 0 for move
+[1334176] Asking 1 for move
+[1334184] Got 1's move
+[1334185] Got 0's move
+[1334186] ===== Move Frame 28 ===========
+[1334186] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X      X      X
+XXXX  XXX  XXXX
+X  +          X
+X      +      X
+X             X
+XN           AX
+X             X
+X   h  +      X
+X  +       d  X
+XXXX gXXX aXXXX
+X      X   f  X
+X      X    e X
+XXXXXXXXXXXXXXX
